@@ -1,7 +1,7 @@
-<<<<<<< HEAD
 # greatfrontend-projects
-Repository for submission and tracking of GreatFrontEnd Projects 
-=======
+
+# Repository for submission and tracking of GreatFrontEnd Projects
+
 <!-- Use Ctrl/Cmd + Shift + V in VS Code to preview this Markdown file. -->
 
 # GreatFrontEnd Projects Challenge
@@ -41,21 +41,21 @@ This starter template consists of the following files and directories:
     └── index.js
 ```
 
-- `README.md`: This file.
-- `designs`: Responsive design images for the challenge. Your submission will be compared against some or all of these images.
-- `index.html`: Entrypoint for your website. You should be editing this file.
-- `css`: For writing any custom CSS styles to customize the appearance of the page.
-- `js`: For writing any custom JavaScript to add interactivity to the page.
-- `img`: Image assets used by the challenge.
+-   `README.md`: This file.
+-   `designs`: Responsive design images for the challenge. Your submission will be compared against some or all of these images.
+-   `index.html`: Entrypoint for your website. You should be editing this file.
+-   `css`: For writing any custom CSS styles to customize the appearance of the page.
+-   `js`: For writing any custom JavaScript to add interactivity to the page.
+-   `img`: Image assets used by the challenge.
 
 ### Provided assets
 
 For each challenge, we provide the following assets:
 
-- **Starter/skeleton code**: `index.html`, `style.css`, and `index.js`.
-- **Designs**: The `designs` directory contains reference image design files for the various device breakpoints and states for the challenge. With only these images, it can be hard to determine the exact styling required, so `style-guide.md` contains valuable information about the design, such as device breakpoints, typography styles, and color palette.
-- **Images**: If the challenge uses some images such as illustrations, logos, etc, they will be provided in the `img` directory.
-- **Icons**: Icons can be found on [Remix Icon](https://remixicon.com/).
+-   **Starter/skeleton code**: `index.html`, `style.css`, and `index.js`.
+-   **Designs**: The `designs` directory contains reference image design files for the various device breakpoints and states for the challenge. With only these images, it can be hard to determine the exact styling required, so `style-guide.md` contains valuable information about the design, such as device breakpoints, typography styles, and color palette.
+-   **Images**: If the challenge uses some images such as illustrations, logos, etc, they will be provided in the `img` directory.
+-   **Icons**: Icons can be found on [Remix Icon](https://remixicon.com/).
 
 For the best (and realistic) experience, we recommend developing while referencing the challenge's Figma file. If the challenge is free or you have a [GreatFrontEnd Projects Premium](https://greatfrontend.com/projects/pricing) subscription, you'd be able to download the challenge's `.fig` Figma file, which will allow you to emulate developers at work – inspecting high fidelity designs and diving into each element's properties like colors, font sizes, spacing, etc.
 
@@ -65,9 +65,9 @@ The downloaded `.fig` file can be opened using the [Figma website](https://www.f
 
 If you are new to Figma, here are some useful resources to help you get acquainted with Figma:
 
-- [Intro to Figma for Developers by Scrimba](https://www.youtube.com/watch?v=fZ-OU_7aBv4)
-- [Figma Onboarding Kit for Developers](https://www.figma.com/community/file/1202517341060356377)
-- [Figma 101 for Developers](https://www.figma.com/community/file/1199577674592933191)
+-   [Intro to Figma for Developers by Scrimba](https://www.youtube.com/watch?v=fZ-OU_7aBv4)
+-   [Figma Onboarding Kit for Developers](https://www.figma.com/community/file/1202517341060356377)
+-   [Figma 101 for Developers](https://www.figma.com/community/file/1199577674592933191)
 
 As a developer, you do not have to learn how to create designs with Figma; you primarily have to know how to navigate a file, selecting frames, inspect properties of the elements such as their size, color, spacing, typography, etc.
 
@@ -127,9 +127,9 @@ Deployment is the process of putting your website's code onto publicly-accessibl
 
 We recommend the following hosting providers where you can deploy your website for free:
 
-- [GitHub Pages](https://pages.github.com/): If you are using the default starter code template hosted on a public GitHub repository, this is the easiest and fastest way to get your site deployed.
-- [Vercel](https://www.vercel.com/): Vercel offers a one-click deployment experience just by connecting your GitHub repository and they have a generous free tier. Could be overkill for hosting static files that don't require a build step.
-- [Netlify](https://www.netlify.com/): Similar offerings as Vercel.
+-   [GitHub Pages](https://pages.github.com/): If you are using the default starter code template hosted on a public GitHub repository, this is the easiest and fastest way to get your site deployed.
+-   [Vercel](https://www.vercel.com/): Vercel offers a one-click deployment experience just by connecting your GitHub repository and they have a generous free tier. Could be overkill for hosting static files that don't require a build step.
+-   [Netlify](https://www.netlify.com/): Similar offerings as Vercel.
 
 ### Submission
 
@@ -154,4 +154,5 @@ Congratulations on submitting your completed challenge! 🚀 Here are some possi
 At GreatFrontEnd projects, we greatly value receiving feedback as it helps us continuously improve and refine our products/services to better meet the needs and expectations of our customers and stakeholders. If you have any feedback or questions, the best channels to reach out would be our [Discord community](https://www.greatfrontend.com/community), our [LinkedIn Page](https://www.linkedin.com/company/greatfrontend), or send an email to contact@greatfrontend.com.
 
 🔥 Good luck on your Front End Developer journey! 🔥
->>>>>>> 59ba7e3 (developed testimonial card)
+
+> > > > > > > 59ba7e3 (developed testimonial card)
