@@ -1,5 +1,3 @@
-# greatfrontend-projects
-
 # Repository for submission and tracking of GreatFrontEnd Projects
 
 <!-- Use Ctrl/Cmd + Shift + V in VS Code to preview this Markdown file. -->
