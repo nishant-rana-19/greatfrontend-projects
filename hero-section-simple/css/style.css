@@ -62,9 +62,9 @@ button:disabled {
     align-items: center;
     gap: 6px;
     width: fit-content;
-    padding: 10px;
+    padding: 16px;
     border-radius: 4px;
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 500;
     line-height: 28px;
     box-shadow: 0 1px 3px 0 #00000010, 0 1px 2px 0 #00000006;
